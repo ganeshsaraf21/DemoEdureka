@@ -1,3 +1,0 @@
-this is file
-This is second line
-added 3rd line
